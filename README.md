@@ -11,4 +11,4 @@ This portfolio showcases technical projects in petroleum engineering, combining 
 - [📊 OFM + Power BI Integration](powerbi-integration/)
 
 ---
-Created by [Wan Norain Awang Long] | 📧 catherinezulaikha27@gmail.com | 🌐 [[LinkedIn](https://linkedin.com/in/wannorainawanglong/)]
+👩‍💻 Created by [Wan Norain Awang Long] | 📧 catherinezulaikha27@gmail.com | 🌐 [[LinkedIn](https://linkedin.com/in/wannorainawanglong/)]
