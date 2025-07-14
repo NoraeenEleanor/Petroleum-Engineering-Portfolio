@@ -6,7 +6,7 @@ This portfolio showcases technical projects in petroleum engineering, combining 
 
 - [📉 Decline Curve Analysis](decline-curve-analysis/)
 - [🔄 Nodal Analysis (Python + PROSPER)](nodal-analysis/)
-- [🎯 Dual String Gas Lift Optimization](Gas_Lift_Optimization/)
+- [🎯 Dual String Gas Lift Optimization](Gas%20Lift%20Optimization/)
 - [🪔 Petrophysical Analysis (LAS file)](petrophysics-analysis/)
 - [📊 OFM + Power BI Integration](powerbi-integration/)
 
