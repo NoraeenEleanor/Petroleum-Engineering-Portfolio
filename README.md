@@ -7,7 +7,7 @@ This portfolio showcases technical projects in petroleum engineering, combining 
 - [📉 Decline Curve Analysis](Decline%20Curve%20Analysis/)  
   Forecasting using exponential, harmonic, and hyperbolic models. Includes Streamlit app, CSV export, and visual plots.
   
-- [💧 Nodal Analysis (Python + PROSPER)](nodal-analysis/)    
+- [💧 Nodal Analysis (Python + PROSPER)](Nodal%20Analysis/)    
   Single-well performance modeling using IPR and VLP. Includes Python-based nodal matching, productivity index tuning, and optional PROSPER validation.
     
 - [🎯 Dual String Gas Lift Optimization](Gas%20Lift%20Optimization/)      
