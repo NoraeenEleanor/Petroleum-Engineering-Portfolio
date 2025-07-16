@@ -3,6 +3,7 @@
 import streamlit as st 
 import pandas as pd
 import altair as alt
+from pathlib import Path
 
 # Set page config
 st.set_page_config(page_title="Dual String Gas Lift Sensitivity Analysis", page_icon = '💡', layout = "wide")
@@ -24,16 +25,19 @@ pvt_data = st.sidebar.file_uploader("Uploaded PVT Data (CSV)", type="csv")
 well_data = st.sidebar.file_uploader("Upload Well Test Data (CSV)", type="csv")
 st.sidebar.markdown("Or use example datasets below ⬇️")
 
+# Get current folder path where script is located
+base_path = Path(__file__).parent
+
 # Example data
 if pvt_data is not None:
     pvt_df = pd.read_csv(pvt_data)
 else:
-    pvt_df = pd.read_csv("sample_pvt_data.csv")
+    pvt_df = pd.read_csv(base_path / "sample_pvt_data.csv")
     
 if well_data is not None:
     well_df = pd.read_csv(well_data)
 else:
-    well_df = pd.read_csv("sample_well_data.csv")
+    well_df = pd.read_csv(base_path / "sample_well_data.csv")
     
 # Show example data  
 st.subheader("Example PVT Data")
