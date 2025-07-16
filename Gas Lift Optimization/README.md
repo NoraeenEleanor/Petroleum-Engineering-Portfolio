@@ -1,5 +1,5 @@
-🎯 Project 1: Dual String Gas Lift Optimization (Python + PROSPER + OLGA)
-Engineering Reflection: Understanding Model Limitations
+**🎯 Project 1: Dual String Gas Lift Optimization (Python + PROSPER + OLGA)**
+*Engineering Reflection: Understanding Model Limitations*
 
 The simulation uses a simplified gas lift model with assumed injection profiles and fixed dome pressures.
 
