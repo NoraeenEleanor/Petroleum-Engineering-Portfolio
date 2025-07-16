@@ -1,4 +1,4 @@
-#🎯 Project 1: Dual String Gas Lift Optimization (Python + PROSPER + OLGA)  
+# 🎯 Project 1: Dual String Gas Lift Optimization (Python + PROSPER + OLGA)  
 
 *Engineering Reflection: Understanding Model Limitations*
 
