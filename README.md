@@ -2,7 +2,7 @@
 Collection of petroleum engineering projects: gas lift, nodal analysis, petrophysics, decline curve analysis, and Power BI dashboards.
 This portfolio showcases technical projects in petroleum engineering, combining domain knowledge with Python, Streamlit, Power BI, and subsurface analysis tools.
 
-📁 Projects Overview
+## 📁 Projects Overview
 
 📉 **Decline Curve Analysis**  
 Forecasting using exponential, harmonic, and hyperbolic models. Includes Streamlit app, CSV export, and visual plots.
