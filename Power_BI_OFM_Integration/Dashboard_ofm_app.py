@@ -7,10 +7,13 @@ st.set_page_config(page_title="OFM Data Export for Power BI", layout="centered")
 st.title("📊 OFM Data Export App for Power BI")
 st.caption("Integrate Cleaned OFM Data for Power BI Dashboarding")
 
+# Get current folder path where script is located
+base_path = Path(__file__).parent
+
 # Input Data
 try:
-    prod_df = pd.read_csv("dummy_ofm_production.csv")
-    test_df = pd.read_csv("dummy_ofm_welltest.csv")
+    prod_df = pd.read_csv(base_path / "dummy_ofm_production.csv")
+    test_df = pd.read_csv(base_path / "dummy_ofm_welltest.csv")
 except FileNotFoundError:
     st.error("❌ Dummy CSV files not found. Please upload or ensure they are in the same directory ")
     st.stop()
