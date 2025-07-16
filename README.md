@@ -16,7 +16,7 @@ This portfolio showcases technical projects in petroleum engineering, combining 
 - [🪔 Petrophysical Analysis (LAS file)](petrophysics-analysis/)  
   Log plotting and LAS file interpretation using Python and Streamlit. Calculates porosity, water saturation, Vshale, net pay, and generates CSV summaries.
   
-- [📊 OFM + Power BI Integration](powerbi-integration/)  
+- [📊 OFM + Power BI Integration](Power%20BI%20%2B%20OFM%20Integration/)  
 Workflow for exporting production data from OFM and visualizing field performance in Power BI. Includes data prep with Python, filtering, and auto-refresh setup.
 ---
 👩‍💻 Created by [Wan Norain Awang Long] | 📧 catherinezulaikha27@gmail.com | 🌐 [[LinkedIn](https://linkedin.com/in/wannorainawanglong/)]
