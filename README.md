@@ -10,7 +10,7 @@ This portfolio showcases technical projects in petroleum engineering, combining 
 - [💧 Nodal Analysis (Python + PROSPER)](Nodal%20Analysis/)    
   Single-well performance modeling using IPR and VLP. Includes Python-based nodal matching, productivity index tuning, and optional PROSPER validation.
     
-- [🎯 Dual String Gas Lift Optimization](Gas%20Lift%20Optimization/)      
+- [🎯 Dual String Gas Lift Optimization](Gas_Lift_Optimization/)      
   Gas lift design and optimization for dual-string completions, with sensitivity analysis, Streamlit app, and OLGA/PROSPER comparison.
   
 - [🪔 Petrophysical Analysis (LAS file)](petrophysics-analysis/)  
