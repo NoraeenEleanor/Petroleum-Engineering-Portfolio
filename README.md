@@ -4,7 +4,7 @@ This portfolio showcases technical projects in petroleum engineering, combining 
 
 ## 📁 Projects Overview
 
-- 📉 **Decline Curve Analysis**  
+- 📉 **Decline Curve Analysis** (Decline_Curve_Analysis/)   
 Forecasting using exponential, harmonic, and hyperbolic models. Includes Streamlit app, CSV export, and visual plots.
 
 - 🎯 **Dual String Gas Lift Optimization**  
