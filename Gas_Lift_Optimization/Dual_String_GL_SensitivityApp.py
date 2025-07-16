@@ -51,7 +51,8 @@ st.header("Sensitivity Analysis Results")
 selected_param = st.selectbox("Select Parameter for Sensitivity", ["Gas Injection Rate", "Productivity Index", "Dome Pressure", "Pressure Drop between Valves" ])
 
 # Load Sensitivity Results
-sensitivity_df = pd.read_csv(f"sensitivity_{selected_param.replace(' ', '_').lower()}.csv")
+csv_name = f"sensitivity_{selected_param.replace(' ', '_').lower()}.csv"
+sensitivity_df = pd.read_csv(base_path / csv_name)
 
 # Plot   
 st.subheader(f"{selected_param} Sensitivity Plot")
