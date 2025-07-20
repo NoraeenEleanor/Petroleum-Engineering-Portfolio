@@ -7,7 +7,7 @@ This project investigates the performance of dual string gas lift wells using a 
 ## 🔗 Live App
 
 You can try the interactive app here:  
-👉 [Dual String GL App](https://petroleum-engineering-portfolio-hq3u8fq8zjk2xtdjvvonev.streamlit.app/)
+👉 [Dual String Gas Lift App](https://petroleum-engineering-portfolio-hq3u8fq8zjk2xtdjvvonev.streamlit.app/)
 
 ⚠️ *Note: App may take 30–60 seconds to load if inactive (Streamlit free tier auto-sleep feature). Please wait for it to initialize.*
 
