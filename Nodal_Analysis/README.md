@@ -4,6 +4,15 @@ This project demonstrates Nodal Analysis using Python to simulate inflow and out
 
 ---
 
+## 🔗 Live App
+
+You can try the interactive app here:  
+👉 [Nodal Analysis (Fetkovich) App](https://petroleum-engineering-portfolio-bzzfonh8xtyvga4v6deyke.streamlit.app/)
+
+⚠️ *Note: App may take 30–60 seconds to load if inactive (Streamlit free tier auto-sleep feature). Please wait for it to initialize.*
+
+---
+
 ## 📂 Project Structure
 
 - `nodal_analysis.ipynb` — Python notebook for IPR/VLP modeling
