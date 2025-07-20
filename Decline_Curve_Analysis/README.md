@@ -7,7 +7,7 @@ This project demonstrates oil production forecasting using classical Decline Cur
 ## 🔗 Live App
 
 You can try the interactive app here:  
-👉 [Nodal Analysis Streamlit App](https://petroleum-engineering-portfolio-6b2zswgw2yzbxmub8wrfwe.streamlit.app/)
+👉 [Decline Curve Analysis App](https://petroleum-engineering-portfolio-6b2zswgw2yzbxmub8wrfwe.streamlit.app/)
 
 ⚠️ *Note: App may take 30–60 seconds to load if inactive (Streamlit free tier auto-sleep feature). Please wait for it to initialize.*
 
