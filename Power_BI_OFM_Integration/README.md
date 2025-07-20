@@ -4,6 +4,15 @@ This project connects a Python-based data backend (Streamlit app) to a front-end
 
 ---
 
+## 🔗 Live App
+
+You can try the interactive app here:  
+👉 [Power BI + OFM Integration App](https://petroleum-engineering-portfolio-jxckuaasbpyypahscvscmu.streamlit.app/)
+
+⚠️ *Note: App may take 30–60 seconds to load if inactive (Streamlit free tier auto-sleep feature). Please wait for it to initialize.*
+
+---
+
 ## 📂 Project Structure
 
 - `data_streamlit_app.py` — Streamlit backend for data input & export  
