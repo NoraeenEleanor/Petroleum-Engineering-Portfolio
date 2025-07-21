@@ -4,6 +4,15 @@ This project analyzes well log data from LAS files to estimate porosity, water s
 
 ---
 
+## 🔗 Live App
+
+You can try the interactive app here:  
+👉 [LAS File Mutli-Track Log Viwer App](https://petroleum-engineering-portfolio-f2br2lzxpzvagqyyercgrm.streamlit.app/)
+
+⚠️ *Note: App may take 30–60 seconds to load if inactive (Streamlit free tier auto-sleep feature). Please wait for it to initialize.*
+
+---
+
 ## 📂 Project Structure
 
 - `las_analyzer.ipynb` — Core notebook for LAS processing and property calculation  
