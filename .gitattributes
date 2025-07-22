@@ -1,0 +1,16 @@
+# Force Jupyter Notebooks to count as Python
+*.ipynb linguist-language=Python
+
+# Explicitly define Python files
+*.py linguist-language=Python
+
+# CSV and text files are just data
+*.csv linguist-language=Text
+*.txt linguist-language=Text
+
+# Optional: override others
+*.html linguist-language=HTML
+*.json linguist-language=JSON
+
+# Optional: exclude documentation folder (if any)
+docs/** linguist-documentation
