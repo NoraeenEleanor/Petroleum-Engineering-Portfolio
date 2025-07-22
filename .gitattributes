@@ -4,9 +4,10 @@
 # Explicitly define Python files
 *.py linguist-language=Python
 
-# CSV and text files are just data
+# CSV, TXT, LAS files are just data
 *.csv linguist-language=Text
 *.txt linguist-language=Text
+*.las linguist-language=Text
 
 # Optional: override others
 *.html linguist-language=HTML
