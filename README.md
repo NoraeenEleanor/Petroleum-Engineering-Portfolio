@@ -23,4 +23,4 @@ Workflow for exporting production data from OFM and visualizing field performanc
 Estimates OGIP using classical volumetric equations. Incorporates porosity, net pay, Sw, and Z-factor assumptions. Outputs include OGIP sensitivity to pressure and temperature, with CSV export.
 
 ---
-👩‍💻 Prepared by [Wan Norain Awang Long] | 📧 catherinezulaikha27@gmail.com | 🌐 [[LinkedIn](https://linkedin.com/in/wannorainawanglong/)]
+👩‍💻 Prepared by [Wan Norain Awang Long] | 📧 catherinezulaikha27@gmail.com | 🌐 [[LinkedIn](https://linkedin.com/in/wannorainawanglong/)] | 🔍 [[YouTube](https://www.youtube.com/@noraeeneleanor)
