@@ -1,10 +1,10 @@
-🧱 Project 4b: Unconventional CBM Analysis (Coal Facies & Gas Content Mapping)
+# 🧱 Project 4b: Unconventional CBM Analysis (Coal Facies & Gas Content Mapping)
 
 This project focuses on the petrophysical interpretation of a coalbed methane (CBM) reservoir using well log data and core gas content samples. The analysis includes coal zone identification based on log cutoffs, facies classification, gas content visualization, and coal interval export — all built using Python and Streamlit.
 
 ---
 
-🔗 Live App  
+## 🔗 Live App  
 You can try the interactive app here:  
 👉 CBM Coal Zone & Gas Content Analyzer (Streamlit App) *(link placeholder)*
 
@@ -12,7 +12,7 @@ You can try the interactive app here:
 
 ---
 
-📂 Project Structure  
+## 📂 Project Structure  
 `cbm_log_analyzer.ipynb` — Main notebook for CBM-focused log interpretation  
 `cbm_streamlit.py` — Streamlit app for interactive coal zone & gas content visualization  
 `ALTHORPE_1_MAIN_HR_Althorpe.las` — Raw LAS file from CBM well  
@@ -21,7 +21,7 @@ You can try the interactive app here:
 
 ---
 
-📊 Features & Interpretation Logic
+## 📊 Features & Interpretation Logic
 
 - **Coal Zone Identification**:  
   GR < 50, RHOB < 1.8 g/cc, PEF < 1.5, Porosity > 4–6%
@@ -40,7 +40,7 @@ You can try the interactive app here:
 
 ---
 
-🧠 Engineering Reflection
+## 🧠 Engineering Reflection
 
 This project showcases unconventional reservoir handling where coal seams act both as source and reservoir. Cutoffs were tuned to avoid missing thin coal beds. Facies classification was done via basic deterministic logic using GR, RHOB, PEF, and porosity. Gas content overlays help identify productive seams and evaluate gas-bearing potential.
 
@@ -51,7 +51,7 @@ It demonstrates my understanding of:
 
 ---
 
-🚀 Next Steps
+## 🚀 Next Steps
 
 - Include gas content gradient trends
 - Estimate gas-in-place (GIP) using Langmuir assumptions
