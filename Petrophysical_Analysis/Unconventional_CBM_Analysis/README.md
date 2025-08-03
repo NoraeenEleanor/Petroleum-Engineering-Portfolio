@@ -13,7 +13,7 @@ You can try the interactive app here:
 ---
 
 ## 📂 Project Structure  
-`cbm_log_analyzer.ipynb` — Main notebook for CBM-focused log interpretation  
+`coal_seam_zone.ipynb` — Main notebook for CBM-focused log interpretation  
 `cbm_streamlit.py` — Streamlit app for interactive coal zone & gas content visualization  
 `ALTHORPE_1_MAIN_HR_Althorpe.las` — Raw LAS file from CBM well  
 `export_coal_intervals.csv` — Extracted coal seam intervals based on cutoff rules  
